@@ -16,13 +16,13 @@ side2 = float(input("Enter the length of the second side: "))
 side1squared = math.pow(side1,2)
 side2squared = math.pow(side2,2)
 
-sum = side1squared + side2squared
+sumofsides = side1squared + side2squared
 
-math.sqrt(sum)
+math.sqrt(sumofsides)
 
 ## Expect your output here
 
-print("The hypotenuse is ", math.sqrt(sum))
+print("The hypotenuse is ", math.sqrt(sumofsides))
 
 ## Name: Jairus S. Galanza
 ## Section: Adelfa
